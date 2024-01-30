@@ -3,7 +3,8 @@
   justify-content: center;
   flex-wrap: wrap;
   gap: 24px;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 1140px;
 }
 
 .gallery-item {
